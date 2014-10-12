@@ -46,14 +46,14 @@
 	width: 100%;
 }
 #intro {
-	background: url("../images/Intro.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/Intro.png") 50% 50% no-repeat fixed!important;
 	color: white;
 	height: 500px;
 	margin: 0 auto;
 	padding: 150px 0 40px;
 }
 #second {
-	background: url("../images/second.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/second.png") 50% 50% no-repeat fixed!important;
 	color: white;
 	height: 500px;
 	margin: 0 auto;
@@ -77,7 +77,7 @@
 	padding: 150px 0 40px;
 }
 #fifth {
-	background: url("../images/fifth.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/fifth.png") 50% 50% no-repeat fixed!important;
 	color: white;
 	height: 500px;
 	margin: 0 auto;
@@ -88,10 +88,10 @@
 /*******media query********/
 @media (min-width: 768px) and (max-width: 979px) {
 #intro {
-	background: url("../images/Intro.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/Intro.png") 50% 50% no-repeat fixed!important;
 }
 #second {
-	background: url("../images/second.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/second.png") 50% 50% no-repeat fixed!important;
 }
 #third {
 	background: url("../images/third.jpg") 50% 50% no-repeat fixed!important;
@@ -100,7 +100,7 @@
 	background: url("../images/fourth.jpg") 50% 50% no-repeat fixed!important;
 }
 #fifth {
-	background: url("../images/fifth.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/fifth.png") 50% 50% no-repeat fixed!important;
 }
 .cb-slideshow li div h3 {
 	font-size: 25px !important;
@@ -109,10 +109,10 @@
 }
  @media (max-width: 767px) {
 #intro {
-	background: url("../images/Intro.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/Intro.png") 50% 50% no-repeat fixed!important;
 }
 #second {
-	background: url("../images/second.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/second.png") 50% 50% no-repeat fixed!important;
 }
 #third {
 	background: url("../images/third.jpg") 50% 50% no-repeat fixed!important;
@@ -121,7 +121,7 @@
 	background: url("../images/fourth.jpg") 50% 50% no-repeat fixed!important;
 }
 #fifth {
-	background: url("../images/fifth.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/fifth.png") 50% 50% no-repeat fixed!important;
 }
 .cb-slideshow li div h3 {
 	font-size: 25px !important;
@@ -130,10 +130,10 @@
 }
  @media (max-width: 480px) {
 #intro {
-	background: url("../images/Intro.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/Intro.png") 50% 50% no-repeat fixed!important;
 }
 #second {
-	background: url("../images/second.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/second.png") 50% 50% no-repeat fixed!important;
 }
 #third {
 	background: url("../images/third.jpg") 50% 50% no-repeat fixed!important;
@@ -142,7 +142,7 @@
 	background: url("../images/fourth.jpg") 50% 50% no-repeat fixed!important;
 }
 #fifth {
-	background: url("../images/fifth.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/fifth.png") 50% 50% no-repeat fixed!important;
 }
 .cb-slideshow li div h3 {
 	font-size: 25px !important;
@@ -151,10 +151,10 @@
 }
  @media (min-width: 768px) and (max-width: 979px) {
 #intro {
-	background: url("../images/Intro.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/Intro.png") 50% 50% no-repeat fixed!important;
 }
 #second {
-	background: url("../images/second.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/second.png") 50% 50% no-repeat fixed!important;
 }
 #third {
 	background: url("../images/third.jpg") 50% 50% no-repeat fixed!important;
@@ -163,7 +163,7 @@
 	background: url("../images/fourth.jpg") 50% 50% no-repeat fixed!important;
 }
 #fifth {
-	background: url("../images/fifth.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/fifth.png") 50% 50% no-repeat fixed!important;
 }
 .cb-slideshow li div h3 {
 	font-size: 30px !important;
@@ -172,10 +172,10 @@
 }
  @media (min-width: 1200px) {
 #intro {
-	background: url("../images/Intro.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/Intro.png") 50% 50% no-repeat fixed!important;
 }
 #second {
-	background: url("../images/second.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/second.png") 50% 50% no-repeat fixed!important;
 }
 #third {
 	background: url("../images/third.jpg") 50% 50% no-repeat fixed!important;
@@ -184,15 +184,15 @@
 	background: url("../images/fourth.jpg") 50% 50% no-repeat fixed!important;
 }
 #fifth {
-	background: url("../images/fifth.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/fifth.png") 50% 50% no-repeat fixed!important;
 }
 }
  @media (max-width: 979px) {
 #intro {
-	background: url("../images/Intro.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/Intro.png") 50% 50% no-repeat fixed!important;
 }
 #second {
-	background: url("../images/second.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/second.png") 50% 50% no-repeat fixed!important;
 }
 #third {
 	background: url("../images/third.jpg") 50% 50% no-repeat fixed!important;
@@ -201,7 +201,7 @@
 	background: url("../images/fourth.jpg") 50% 50% no-repeat fixed!important;
 }
 #fifth {
-	background: url("../images/fifth.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/fifth.png") 50% 50% no-repeat fixed!important;
 }
 .cb-slideshow li div h3 {
 	font-size: 35px !important;
@@ -210,10 +210,10 @@
 }
 @media (min-width: 980px) {
 #intro {
-	background: url("../images/Intro.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/Intro.png") 50% 50% no-repeat fixed!important;
 }
 #second {
-	background: url("../images/second.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/second.png") 50% 50% no-repeat fixed!important;
 }
 #third {
 	background: url("../images/third.jpg") 50% 50% no-repeat fixed!important;
@@ -222,7 +222,7 @@
 	background: url("../images/fourth.jpg") 50% 50% no-repeat fixed!important;
 }
 #fifth {
-	background: url("../images/fifth.jpg") 50% 50% no-repeat fixed!important;
+	background: url("../images/fifth.png") 50% 50% no-repeat fixed!important;
 }
 .cb-slideshow li div h3 {
 	font-size: 35px !important;
