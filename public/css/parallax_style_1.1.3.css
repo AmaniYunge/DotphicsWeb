@@ -5,7 +5,7 @@
 .Parallax h2 {
 	background-color: #000000;
 	display: inline;
-	font-family: 'Kelly Slab', cursive !important;
+	font-family: font-family: 'Open Sans',arial; !important;
 	font-size: 2.5em !important;
 	line-height: 1.4em !important;
 	opacity: 0.7;
@@ -18,7 +18,7 @@
 	font-weight: lighter;
 }
 .Parallax blockquote {
-	font-family: 'Kelly Slab', cursive !important;
+    font-family: font-family: 'Open Sans',arial; !important;
 	font-size: 1.1em!important;
 	background: none repeat scroll 0 0 #000000;
 	border: medium none !important;
@@ -34,7 +34,7 @@
 	z-index: 250;
 }
 .Parallax .ParallaxText p {
-	font-family: 'Kelly Slab', cursive !important;
+    font-family: font-family: 'Open Sans',arial; !important;
 	background: none repeat scroll 0 0 #000000;
 	display: inline;
 	opacity: 0.7;
@@ -79,7 +79,7 @@
 #fifth {
 	background: url("../images/fifth.png") 50% 50% no-repeat fixed!important;
 	color: white;
-	height: 500px;
+	height: 900px;
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 150px 0 40px;
