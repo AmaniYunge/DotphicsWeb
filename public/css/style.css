@@ -176,7 +176,7 @@ p {
 	margin: 20px 18px;
 }
 .GetInTouch .control-group.error .control-label, .GetInTouch .control-group.error .help-block, .GetInTouch .control-group.error .help-inline {
-	color: #FFFFFF;
+    color: #C13136;
 	margin-top: 5px;
 }
 .GetInTouch a.btn, .GetInTouch button.btn {
